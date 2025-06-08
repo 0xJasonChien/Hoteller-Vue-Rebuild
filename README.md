@@ -1,6 +1,7 @@
 # Hoteller 宿速找 (vue全端分離版本)
 
 為解決在訂房網站選擇飯店時花費過多的時間閱讀過去使用者的評論，透過爬蟲程式爬取區域內飯店在訂房網站之所有留言，並對各留言利用 BERT 語言模型進行情緒面向分析，經過所有留言統計後提供使用者該飯店的真實顧客評論。
+[專題全文](https://drive.google.com/file/d/1OUnD7Z4zHJaPSg1j533Lm8U95yZAzy9K/view?usp=drive_link)
 
 ## 專案內容
 該網站主要功能包括：
